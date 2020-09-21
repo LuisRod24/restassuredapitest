@@ -1,9 +1,5 @@
-package DemoTest;
-
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
-import io.restassured.specification.ResponseSpecification;
 import org.testng.annotations.Test;
 
 public class DemoTest {
