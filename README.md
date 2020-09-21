@@ -17,11 +17,6 @@ This api automation framework depends on the following external libraries
          <version>6.14.3</version>
       </dependency>
 
-      <dependency>
-         <groupId>com.jayway.jsonpath</groupId>
-         <artifactId>json-path</artifactId>
-         <version>2.4.0</version>
-      </dependency>
    </dependencies>
 ```
 ## Framework Architectural Diagram
@@ -47,6 +42,8 @@ This api automation framework depends on the following external libraries
 * Download and install Apache Maven v3.0+
 * Download and install Git v2.0+
 ## Set-up Instructions
+You need to have following test execution set up
+![screenshot](/images/test_execution_setup.jpg)
 
 ## How to write Test Cases
 
