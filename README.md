@@ -17,7 +17,18 @@ This api automation framework depends on the following external libraries
          <version>6.14.3</version>
       </dependency>
 
-   </dependencies>
+      <dependency>
+         <groupId>com.jayway.jsonpath</groupId>
+         <artifactId>json-path</artifactId>
+         <version>2.4.0</version>
+      </dependency>
+      
+      <dependency>
+         <groupId>com.aventstack</groupId>
+         <artifactId>extentreports</artifactId>
+         <version>4.1.7</version>
+      </dependency>
+</dependencies>
 ```
 ## Framework Project Structure Diagram
 ```
