@@ -4,7 +4,6 @@ import io.restassured.RestAssured;
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
-import org.graalvm.compiler.debug.Assertions;
 import org.testng.annotations.Test;
 
 public class ReqresGetTest {

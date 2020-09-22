@@ -1,3 +1,5 @@
+package testcases;
+
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
